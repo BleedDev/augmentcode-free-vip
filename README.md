@@ -12,10 +12,13 @@ It lets you log into unlimited accounts on the same computer without triggering 
    👉 **[Join Discord](https://discord.gg/C45ngMAkAZ)**
 
 2. **Completely close VS Code**
-3. **Run `FreeAugmentCodeBypass.exe`**
+3. **Run ` augmentcodefree.exe`**
 4. When prompted, **enter your Key** (available in Discord)
 5. Restart VS Code
 6. Log into Augment Code with a new email
+
+> **Notice:** This tool will log your MAC address for key verification.  
+> You can trust us with this information.
 
 ---
 
