@@ -6,7 +6,7 @@
 > The author is **not responsible** for any misuse or damages.
 
 ## 👋 Only Tool That Works
-> We are the only patch that works without getting banned for days, We provide the fastest updates & support. Don't use skethcy tools.
+> We are the only patch that 100% works without getting banned for days, We provide the fastest updates & support. Don't use sketchy tools.
 
 ## 📥 Usage Guide
 
