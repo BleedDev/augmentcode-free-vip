@@ -1,15 +1,15 @@
-# 🚀 Augment Code Free VIP
+# 🚀 AugmentCode Free VIP
 
-**Augment Code Free VIP** is a tool that removes Augment Code **login and device restrictions**, allowing you to sign in with **unlimited accounts** on the same machine — without triggering account locks.  
+**AugmentCode Free VIP** is a tool that removes AugmentCode **login and device restrictions**, allowing you to sign in with **unlimited accounts** on the same machine — without triggering account locks.  
 
 > ⚠ **Disclaimer:** This software is provided **for educational and research purposes only**.  
 > The author takes **no responsibility** for misuse or damages.
 
 ---
 
-# 🚀 Augment Code 免费 VIP
+# 🚀 AugmentCode 免费 VIP
 
-**Augment Code 免费 VIP** 是一个工具，可以移除 Augment Code 的 **登录与设备限制**，让你在同一台电脑上登录 **无限账号**，且不会触发封锁。  
+**AugmentCode 免费 VIP** 是一个工具，可以移除 AugmentCode 的 **登录与设备限制**，让你在同一台电脑上登录 **无限账号**，且不会触发封锁。  
 
 > ⚠ **免责声明：** 本软件仅用于 **教育与研究目的**。  
 > 作者对任何误用或损害 **不承担责任**。
