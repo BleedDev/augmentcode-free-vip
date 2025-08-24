@@ -1,5 +1,3 @@
-> We are currently testing as Augment Code added new protection to their backend, new version will be released when we are sure we patched it.
-
 # 🚀 AugmentCode Free VIP
 
 **AugmentCode Free VIP** is a tool that removes AugmentCode **login and device restrictions**, allowing you to sign in with **unlimited accounts** on the same machine — without triggering account locks.  
